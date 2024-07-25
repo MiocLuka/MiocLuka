@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiocLuka
-- 🌱 I’m currently a 1st year bachelor in Computer Science at the VU
+- 🌱 I’m currently a 3rd year bachelor in Computer Science at the VU
 - 📫 How to reach me: luka24mioc@gmail.com
 
 <!---
